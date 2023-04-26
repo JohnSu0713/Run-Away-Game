@@ -1,0 +1,6 @@
+*.vscode
+*.exe
+*.mp3
+*.dsym
+*.dSYM
+main
